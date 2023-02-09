@@ -199,5 +199,17 @@ namespace WinAppFacturacion
                 return;
             }
         }
+
+        private void cerrarSesionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 sesion = new Form1();
+            sesion.Show();
+            this.Close();
+        }
+
+        private void cerrarProgramaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

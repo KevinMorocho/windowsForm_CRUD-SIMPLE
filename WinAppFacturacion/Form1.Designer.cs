@@ -35,6 +35,7 @@ namespace WinAppFacturacion
             this.txtUsuario = new System.Windows.Forms.TextBox();
             this.txtPass = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -51,7 +52,7 @@ namespace WinAppFacturacion
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(66, 144);
+            this.label2.Location = new System.Drawing.Point(59, 123);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(77, 18);
             this.label2.TabIndex = 1;
@@ -61,7 +62,7 @@ namespace WinAppFacturacion
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(43, 187);
+            this.label3.Location = new System.Drawing.Point(36, 166);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(100, 18);
             this.label3.TabIndex = 2;
@@ -69,14 +70,14 @@ namespace WinAppFacturacion
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(149, 142);
+            this.txtUsuario.Location = new System.Drawing.Point(142, 121);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(100, 20);
             this.txtUsuario.TabIndex = 3;
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(149, 188);
+            this.txtPass.Location = new System.Drawing.Point(142, 167);
             this.txtPass.Name = "txtPass";
             this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(100, 20);
@@ -84,7 +85,7 @@ namespace WinAppFacturacion
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(118, 242);
+            this.button1.Location = new System.Drawing.Point(167, 224);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 5;
@@ -92,11 +93,21 @@ namespace WinAppFacturacion
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(62, 224);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 6;
+            this.button2.Text = "Salir";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(326, 301);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtPass);
             this.Controls.Add(this.txtUsuario);
@@ -104,6 +115,7 @@ namespace WinAppFacturacion
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Iniciar Sesion";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -118,6 +130,7 @@ namespace WinAppFacturacion
         private System.Windows.Forms.TextBox txtUsuario;
         private System.Windows.Forms.TextBox txtPass;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }
 
