@@ -1,0 +1,12 @@
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\bin\Debug\WinAppFacturacion.exe.config
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\bin\Debug\WinAppFacturacion.exe
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\bin\Debug\WinAppFacturacion.pdb
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.csproj.AssemblyReference.cache
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.Form1.resources
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.Properties.Resources.resources
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.winCRUDcliente.resources
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.winIndex.resources
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.csproj.GenerateResource.cache
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.csproj.CoreCompileInputs.cache
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.exe
+D:\Kevin Respaldos\Desktop\WinFacturacion\WinAppFacturacion\WinAppFacturacion\obj\Debug\WinAppFacturacion.pdb
